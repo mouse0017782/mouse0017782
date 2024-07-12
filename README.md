@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java!!**
 
-- 👯 I’m looking to collaborate on [On Minecraft projects](https://modrinth.com/user/corruptedpuppy)
+- 🐶 I’m looking to collaborate on [On Minecraft projects](https://modrinth.com/user/corruptedpuppy)
 
 - 💬 Ask me about **Coding**
 
